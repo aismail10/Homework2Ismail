@@ -37,7 +37,7 @@ Although the explanation of the website does not go into detail about the intric
 
 2. **Complete GitHub Repository Research.**
 
-**First GITHUB Repository Research** 
+**First GITHUB Repository Research**:
 
 https://github.com/farmOS/farmOS
 
