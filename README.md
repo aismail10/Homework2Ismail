@@ -16,6 +16,7 @@ It uses JavaScript for dynamic weather visualization and interactive.
 
 -**Second Website.** -:
 https://www.weather.gov/
+
 This website delivers a weather predictions, alerts, and other weather related information across the United States of America. 
 The website provides a simple a user friendly and exentsive design, it makes it easiers for users to access easily for local forecast,serve weather alerts, and for eductional resources. 
 URL elements like "?" and "#" are used to navigate around the website without refreshing it and manage content dynamically.
@@ -24,6 +25,7 @@ Users can get real time respones because a Javascript is used actively and makin
 
 -**Third Website.** -:
 https://www.visualcrossing.com/agriculture-weather-data#:~:text=Farmers%20can%20use%20weather%20data,adjust%20their%20irrigation%20schedules%20appropriately.
+
 This website delivers regrading planting, crop care, harvesting, livestock care, and marketing,and letting farmers may benefit from this website to get an accurate agriculture weather. 
 It show's when is the right time to grow crops for an accurate planning and mangement, the soil tempature, and soil mositure. 
 The website has a easy layout weather API so users can get forecast and historical data. 
