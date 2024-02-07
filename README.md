@@ -59,23 +59,27 @@ This is important for farmers that are trying to store information and understan
 4. **Document with a README**
 
 -**Project Overview**
+
 My project is showing a basic HTML prototype, it provides a new introduction of what exactly this website will be.The website provides a simple javascript presenting the exact time and date, this will be very helpful in the future with giving a precise respone of how the weather for farmers. It provides the humidity of cities. 
 It show's a descriptive range of when certain fruits and vegetables show be grown in which humdity.For an example an apple should be grown in 40%-60% humidity, this data will be important for farmers to know when is the right time to grow their apple. 
 The website does feature a search fruits section that directs you to another page. This will be helpful for farmers to get to accurate information about when it's smart to crop certain fruits and vegtables.
 The wesbite is still in the beginning stage so it's nothing complex or has a lot of JavaScript functions, it's very basic. 
 
 -**Page description**
+
 The project has a very simple conceptual and technical aspects. This is one JavaScript code that displays a data & time which is supposed to help farmers get the accurate weather at the precise manner.
 The project is still in the beginning stages there isn't much aspects about the website.The website still needs a lot of JavaScript to give a precise accurate weather, this will help farmers to grow their crops. 
 It has a bootstrap function that you can press and you can search certain fruits. It's still not fully functionable that will be improved to search the fruits & vegtables and see when is the right time to grow.
 
 -**Future Enchnanchments-**
+
 The project needs a lot of improvments, after seeing the different website we were researching it show's they use a lot of JavaScript and uses API to give precise and accurate weather. 
 This helps farmers get the best outcome for their crops,this is very important to work on.
 It's needs more development to improve the look and organize the website to make look more cleaner and more easier to function. 
 I want to improve the the press link tool i want it to be able to show various fruits and vegtables, I want it to show what's the best time to grow and when is the best month to grow. This is very important for my site. 
 
 -**Citation-**
+
 https://www.w3schools.com/html/default.asp
 
 https://www.visualcrossing.com/agriculture-weather-data#:~:text=Farmers%20can%20use%20weather%20data,adjust%20their%20irrigation%20schedules%20appropriately.
