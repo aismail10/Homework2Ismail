@@ -1,4 +1,6 @@
 #MIS Assigment 2: Prototype Development and Research for Web Application
+
+
 1.**Complete a Competitive Analysis.**
 -**First Website-**:
 https://www.dtnpf.com/agriculture/web/ag/weather/interactive-map
@@ -56,14 +58,23 @@ I want to improve the the press link tool i want it to be able to show various f
 
 -**Citation-**
 https://www.w3schools.com/html/default.asp
+
 https://www.visualcrossing.com/agriculture-weather-data#:~:text=Farmers%20can%20use%20weather%20data,adjust%20their%20irrigation%20schedules%20appropriately.
+
 https://www.dtnpf.com/agriculture/web/ag/weather/market-impact
+
 https://www.weather.gov/
+
 https://greg.app/banana-humidity/
+
 https://greg.app/orange-tree-humidity/#:~:text=%F0%9F%8D%8A%20The%20Sweet%20Spot,where%20these%20citrus%20charmers%20thrive.
+
 https://greg.app/articles/humidity/?page=2
+
 https://greg.app/apple-humidity/#:~:text=Apple%20plants%20thrive%20in%20a,transpiration%2C%20without%20inviting%20fungal%20gatecrashers.
+
 https://bootswatch.com/darkly/
+
 https://weather.com/
 
 **Reflection on Resources**
