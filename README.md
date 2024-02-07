@@ -35,13 +35,17 @@ Although the explanation of the website does not go into detail about the intric
 2. **Complete GitHub Repository Research.**
 
 - **First GITHUB Repository Research** - 
+
 https://github.com/farmOS/farmOS
+
 I really like how this README it shows there are volunteers that built a app for farmers to plan their farming and giving them the best options on when is the best times to do so.
 The application also gives farmers a way to keep their history of what they are perfoming and gives them a farming plan with real time data updates and which area is the best to farm in. 
 They show Michael Stenta is the maintains the app and also includes everyone that particpated on this project. 
 The README gives a great explantion of what the app does and also links the website to the README, to show you where exactly you can access their information. 
 -**Second GITHUB Repository Research**:
+
 https://github.com/brycejohnston/awesome-agriculture
+
 This Github seemed way more indepth,Bryce Johnson show's a very advanced README explaining all what he done with this agriculture website. 
 The README has a lot of various different attributes he has done to make it easier for who ever is looking at his README to see the various attributes he has done. 
 It's show's a database that is recording crops & keeping information about them using an API. This website is very useful for farmers to keep data recorded for when they are farming and to understand when each plant needs to be harvest or needs more attention. 
