@@ -6,7 +6,7 @@
 
 -**First Website.** -:
 https://www.dtnpf.com/agriculture/web/ag/weather/interactive-map
-This website show’s an interactive map of the radar of each state and these aspects Radar, Infrared Satellite, Hourly wind, Past 24 hr. 
+This website showâ€™s an interactive map of the radar of each state and these aspects Radar, Infrared Satellite, Hourly wind, Past 24 hr. 
 Precipitation,  24 hour Surface forecast, Crop moisture, Palmer drought index, GDD contour, Soil temp. 
 It gives a comprehensive look at what the weather conditions are like relevant to agriculture.
 The elements this website provides is very important to the famers to look at on the daily. 
@@ -15,6 +15,7 @@ This website uses an interactive and uploading real time weather visualization a
 It uses JavaScript for dynamic weather visualization and interactive. 
 
 -**Second Website.** -:
+https://www.weather.gov/
 This website delivers a weather predictions, alerts, and other weather related information across the United States of America. 
 The website provides a simple a user friendly and exentsive design, it makes it easiers for users to access easily for local forecast,serve weather alerts, and for eductional resources. 
 URL elements like "?" and "#" are used to navigate around the website without refreshing it and manage content dynamically.
@@ -22,6 +23,7 @@ A technical examination indicates a specialized solution for meteorological data
 Users can get real time respones because a Javascript is used actively and making users to get real time data updates. 
 
 -**Third Website.** -:
+https://www.visualcrossing.com/agriculture-weather-data#:~:text=Farmers%20can%20use%20weather%20data,adjust%20their%20irrigation%20schedules%20appropriately.
 This website delivers regrading planting, crop care, harvesting, livestock care, and marketing,and letting farmers may benefit from this website to get an accurate agriculture weather. 
 It show's when is the right time to grow crops for an accurate planning and mangement, the soil tempature, and soil mositure. 
 The website has a easy layout weather API so users can get forecast and historical data. 
