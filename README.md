@@ -5,6 +5,7 @@
 
 
 -**First Website.** -:
+
 https://www.dtnpf.com/agriculture/web/ag/weather/interactive-map
 
 This website show’s an interactive map of the radar of each state and these aspects Radar, Infrared Satellite, Hourly wind, Past 24 hr. 
@@ -16,6 +17,7 @@ This website uses an interactive and uploading real time weather visualization a
 It uses JavaScript for dynamic weather visualization and interactive. 
 
 -**Second Website.** -:
+
 https://www.weather.gov/
 
 This website delivers a weather predictions, alerts, and other weather related information across the United States of America. 
@@ -25,6 +27,7 @@ A technical examination indicates a specialized solution for meteorological data
 Users can get real time respones because a Javascript is used actively and making users to get real time data updates. 
 
 -**Third Website.** -:
+
 https://www.visualcrossing.com/agriculture-weather-data#:~:text=Farmers%20can%20use%20weather%20data,adjust%20their%20irrigation%20schedules%20appropriately.
 
 This website delivers regrading planting, crop care, harvesting, livestock care, and marketing,and letting farmers may benefit from this website to get an accurate agriculture weather. 
