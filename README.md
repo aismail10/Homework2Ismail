@@ -4,7 +4,7 @@
 1.**Complete a Competitive Analysis**
 
 
--**First Website.**:
+-**First Website.** -:
 https://www.dtnpf.com/agriculture/web/ag/weather/interactive-map
 This website show’s an interactive map of the radar of each state and these aspects Radar, Infrared Satellite, Hourly wind, Past 24 hr. 
 Precipitation,  24 hour Surface forecast, Crop moisture, Palmer drought index, GDD contour, Soil temp. 
@@ -14,21 +14,22 @@ This website has many file patches that change the url when pressing
 This website uses an interactive and uploading real time weather visualization and interactive.
 It uses JavaScript for dynamic weather visualization and interactive. 
 
--**Second Website.**:
+-**Second Website.** -:
 This website delivers a weather predictions, alerts, and other weather related information across the United States of America. 
 The website provides a simple a user friendly and exentsive design, it makes it easiers for users to access easily for local forecast,serve weather alerts, and for eductional resources. 
 URL elements like "?" and "#" are used to navigate around the website without refreshing it and manage content dynamically.
 A technical examination indicates a specialized solution for meteorological data presentation, with an emphasis on performance and accessibility, and no obvious use of front-end frameworks such as Bootstrap for the user interface.
 Users can get real time respones because a Javascript is used actively and making users to get real time data updates. 
 
--**Third Website.**:
+-**Third Website.** -:
 This website delivers regrading planting, crop care, harvesting, livestock care, and marketing,and letting farmers may benefit from this website to get an accurate agriculture weather. 
 It show's when is the right time to grow crops for an accurate planning and mangement, the soil tempature, and soil mositure. 
 The website has a easy layout weather API so users can get forecast and historical data. 
 Although the explanation of the website does not go into detail about the intricacies of the underlying code or frameworks (like Bootstrap), it looks that the site makes use of contemporary web technologies to show data in an accessible and user-friendly manner.
 
 2. **Complete GitHub Repository Research.**
--**First GITHUB Repository Research**:
+
+- **First GITHUB Repository Research** - 
 https://github.com/farmOS/farmOS
 I really like how this README it shows there are volunteers that built a app for farmers to plan their farming and giving them the best options on when is the best times to do so.
 The application also gives farmers a way to keep their history of what they are perfoming and gives them a farming plan with real time data updates and which area is the best to farm in. 
