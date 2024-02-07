@@ -4,7 +4,7 @@
 1.**Complete a Competitive Analysis**
 
 
--**First Website.** -:
+**First Website.**
 
 https://www.dtnpf.com/agriculture/web/ag/weather/interactive-map
 
@@ -16,7 +16,7 @@ This website has many file patches that change the url when pressing
 This website uses an interactive and uploading real time weather visualization and interactive.
 It uses JavaScript for dynamic weather visualization and interactive. 
 
--**Second Website.** -:
+**Second Website.** 
 
 https://www.weather.gov/
 
@@ -26,7 +26,7 @@ URL elements like "?" and "#" are used to navigate around the website without re
 A technical examination indicates a specialized solution for meteorological data presentation, with an emphasis on performance and accessibility, and no obvious use of front-end frameworks such as Bootstrap for the user interface.
 Users can get real time respones because a Javascript is used actively and making users to get real time data updates. 
 
--**Third Website.** -:
+**Third Website.** 
 
 https://www.visualcrossing.com/agriculture-weather-data#:~:text=Farmers%20can%20use%20weather%20data,adjust%20their%20irrigation%20schedules%20appropriately.
 
@@ -37,7 +37,7 @@ Although the explanation of the website does not go into detail about the intric
 
 2. **Complete GitHub Repository Research.**
 
-- **First GITHUB Repository Research** - 
+**First GITHUB Repository Research** 
 
 https://github.com/farmOS/farmOS
 
@@ -45,7 +45,8 @@ I really like how this README it shows there are volunteers that built a app for
 The application also gives farmers a way to keep their history of what they are perfoming and gives them a farming plan with real time data updates and which area is the best to farm in. 
 They show Michael Stenta is the maintains the app and also includes everyone that particpated on this project. 
 The README gives a great explantion of what the app does and also links the website to the README, to show you where exactly you can access their information. 
--**Second GITHUB Repository Research**:
+
+**Second GITHUB Repository Research**:
 
 https://github.com/brycejohnston/awesome-agriculture
 
