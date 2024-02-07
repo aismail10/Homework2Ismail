@@ -2,7 +2,9 @@
 
 
 1.**Complete a Competitive Analysis.**
--**First Website-**:
+
+
+**First Website**:
 https://www.dtnpf.com/agriculture/web/ag/weather/interactive-map
 This website show’s an interactive map of the radar of each state and these aspects Radar, Infrared Satellite, Hourly wind, Past 24 hr. 
 Precipitation,  24 hour Surface forecast, Crop moisture, Palmer drought index, GDD contour, Soil temp. 
